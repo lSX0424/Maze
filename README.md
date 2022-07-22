@@ -9,3 +9,5 @@ Example 1:
 Input: maze = [[0,0,1,0,0],[0,0,0,0,0],[0,0,0,1,0],[1,1,0,1,1],[0,0,0,0,0]], start = [0,4], destination = [4,4]
 Output: true
 Explanation: One possible way is : left -> down -> left -> down -> right -> down -> right.
+
+PPT: https://docs.google.com/presentation/d/1UD-D40WL25KThj5T5j6zEfVacVb99uMky3m3sIKKKXo/edit#slide=id.g13d83412b05_0_2010
